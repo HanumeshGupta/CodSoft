@@ -60,7 +60,7 @@ def play_game():
 while True :
     play_game()
     user_choice  = input("Wanna play again : ")
-    if user_choice.lower() not in ["yes"or 'y']:
+    if user_choice.lower() not in ["yes" , 'y']:
         print("Thank You for playing!")
         break
 
