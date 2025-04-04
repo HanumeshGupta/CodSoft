@@ -150,7 +150,7 @@ An **AI-powered Tic Tac Toe game** where users play against an AI opponent.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/CodSoft_Projects.git
+   git clone https://github.com/HanumeshGupta/CodSoft.git
    cd CodSoft_Projects
    ```
 2. **Install dependencies**
